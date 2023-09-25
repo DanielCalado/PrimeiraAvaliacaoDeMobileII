@@ -150,7 +150,7 @@ class CuriosidadeCachorro extends StatelessWidget {
                   "\nExercício: \nPrecisam de exercícios regulares para manter a saúde." +
                   "\vAlimentação: \nUma dieta adequada é crucial para a saúde do cachorro.",
               textAlign: TextAlign.center,
-              style: TextStyle(fontSize: 30),
+              style: TextStyle(fontSize: 20),
             ),
           )
         ],
@@ -179,7 +179,7 @@ class CuriosidadeGato extends StatelessWidget {
                   "\nExercício:\nEmbora sejam menos ativos do que os cães, os gatos ainda precisam de brincadeiras e estimulação física." +
                   "\nAlimentação:\nA dieta dos gatos deve incluir proteínas de alta qualidade e taurina, um aminoácido essencial.",
               textAlign: TextAlign.center,
-              style: TextStyle(fontSize: 30),
+              style: TextStyle(fontSize: 20),
             ),
           )
         ],
