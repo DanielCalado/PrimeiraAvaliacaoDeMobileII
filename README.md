@@ -1,5 +1,5 @@
 # PetPalacy
-###Aplicativo feito para a avaliação da diciplina Web II
+### Aplicativo feito para a avaliação da diciplina Web II
 ### descrição geral do domínio da solução: aplicativo comercial
 ### Descrição específica: Aplicativo para pets
 
